@@ -56,4 +56,4 @@ def loadBooksTags(catalog):
     """
     TODO
     """
-    pass
+    
